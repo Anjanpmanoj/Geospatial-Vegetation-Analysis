@@ -1,0 +1,11 @@
+jupyter
+nbformat
+numpy
+pandas
+matplotlib
+rasterio
+geopandas
+shapely
+folium
+pystac-client
+planetary-computer
